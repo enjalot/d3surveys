@@ -1,0 +1,14 @@
+question,key,type
+Timestamp,timestamp,date
+How comfortable are you with d3 now?,comfort,string
+Why do you want to learn d3?,why,array
+Have you used any of the following technologies?,tech,array
+Have you used any of the following libraries?,libraries,array
+What kind of projects do you want to use d3 for?,projects,array
+Are you comfortable with for loops?,forloops,string
+What is your favorite tool for data visualization so far?,tools,string
+Which feature of d3 get you most excited?,feature,string
+Which formats would you be interested in paying for to learn d3?,format,array
+Do you remember trigonometry?,trig,string
+Does the word gestalt mean anything to you?,gestalt,string
+What city are you in?,city,string
